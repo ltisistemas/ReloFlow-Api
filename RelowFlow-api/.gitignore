@@ -1,0 +1,14 @@
+# Secrets
+appsettings.Development.json
+.env
+.env.local
+*.secrets.json
+
+# Build
+bin/
+obj/
+
+# IDE
+.vs/
+.idea/
+*.user
